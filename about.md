@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-This website if for my deocmentation of my techie adventures, may it be internet exporation or hardware modding, who knows, only time will tell.
+This website is for the documentation of my techie adventures, may it be internet exploration or hardware modding, who knows, only time will tell.
